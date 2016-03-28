@@ -1,0 +1,26 @@
+FONTLOG for the Sebastiano font
+===============================
+
+This file provides detailed information on the Sebastiano Font Software. This information should be distributed along with the Sebastiano fonts and any derivative works.
+
+
+Basic font information
+----------------------
+Sebastian is a typeface designed by Florian Kretlow. This font software is not designed for use in a word-processing application, although all the glyphs may be accessed at their respective Unicode points. It was later remapped for use with GNU LilyPond and renamed "Sebastiano" to comply with SIL OFL terms.
+
+
+More information about LilyPond can be found at:
+
+http://www.lilypond.org/
+
+Changelog
+---------
+
+1 September 2014 (Florian Kretlow) Sebastian version 1.0
+- Initial design published on Github under SIL OFL
+
+8 September 2014 (Abraham Lee) Sebastiano version 1.0
+- Initial design to be compatible with LilyPond 2.18.2.
+
+26 October 2014 (Abraham Lee) Sebastiano version 1.0
+- Added WOFF font file support and added piano brace font in OTF, SVG and WOFF formats
